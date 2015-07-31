@@ -1,0 +1,2 @@
+Export-Package: net.sf.cglib.*
+Import-Package: *;resolution:=optional
